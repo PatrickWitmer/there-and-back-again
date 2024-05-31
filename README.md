@@ -11,3 +11,8 @@
 [How to Code Everyday](https://youtu.be/a0eB7tMkvs4?feature=shared)  
 [How to Replace Video Games With Coding](https://www.youtube.com/watch?v=jclr0N6mvUI)  
 [Mindset of Successful Programmers](https://www.youtube.com/watch?v=nogh434ykF0)
+
+### Learning Resources
+
+**Faithless is he that says farewell when the road darkens.**
+[Developer Roadmaps](https://roadmap.sh/)
