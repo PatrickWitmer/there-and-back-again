@@ -14,5 +14,5 @@
 
 ### Learning Resources
 
-**Faithless is he that says farewell when the road darkens.**
+**Faithless is he that says farewell when the road darkens.**  
 [Developer Roadmaps](https://roadmap.sh/)
